@@ -10,7 +10,7 @@ Automated flight price tracking from Providence (PVD) to Raleigh-Durham (RDU) us
 
 Go to **[serpapi.com](https://serpapi.com)** and click **Register** (top right). After signing up and logging in, your API key is displayed on the dashboard page.
 
-Free tier = 100 searches/month. Running the tracker once a day uses ~30/month.
+Free tier = 250 searches/month. Running the tracker once a day uses ~30/month.
 
 ### Step 2 — Open Terminal
 
