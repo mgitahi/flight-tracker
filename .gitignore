@@ -1,4 +1,5 @@
 .env
 price_history.json
+cron.log
 __pycache__/
 *.pyc
